@@ -1,0 +1,2 @@
+local plr = game.Players.LocqlPlayer while wait(5.) do plr.Character.Angel.Z.Fire:Fireserver()
+end
